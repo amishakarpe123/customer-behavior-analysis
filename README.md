@@ -9,9 +9,8 @@ The goal of this project is to extract meaningful insights from raw data and pre
 ---
 
 ## Dataset
-- Source: [Add dataset source here]
 - Format: CSV / Excel / Database
-- Size: [Add number of rows/columns]
+- Size: 3900 Rows
 - Description:
   The dataset contains information related to [sales/customers/finance/healthcare/etc.].
 
